@@ -1,3 +1,3 @@
-# python_server-client_socket
-Socket with server-client model.
+# python_client-server_socket
+Socket with client-server model.
 Allowing to create a server and hosting several clients on the same IP.
